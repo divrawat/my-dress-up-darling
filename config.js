@@ -75,6 +75,7 @@ export const MANGA_SUMMARY = [
 
 
 export const navLinks = [
+    { text: 'The Greatest Estate Developer', href: `https://www.thegreatestestatedeveloper.in.net` },
     { text: 'Home', href: `${DOMAIN}` },
     { text: 'DMCA', href: `${DOMAIN}/dmca` },
     { text: 'Terms & Conditions', href: `${DOMAIN}/terms-and-conditions` },
